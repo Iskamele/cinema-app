@@ -65,11 +65,14 @@ The project uses the following technologies:
 
 - Java 17
 - MySQL
-- Java Database Connectivity (JDBC)
 - Hibernate ORM Framework
 - Spring Framework
+- Spring MVC/Security
+- REST
 - Apache Tomcat
 - Maven
+- Jackson
+- JSON
 
 ## Contributing <a name="contributing"></a>
 
